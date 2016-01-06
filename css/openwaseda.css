@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+	background-color: #920306;
+	padding-bottom: 80px;
+}
+body div.container {
+	margin-top: 80px;
+	background-color: #FFF;
+	padding-bottom: 200px;
+}
+.navbar {
+	border-top: 4px solid #920306;
+	border-bottom: 1px solid #920306;
+}
+.navbar-default .navbar-brand {
+	color: #920306;
+}
+
